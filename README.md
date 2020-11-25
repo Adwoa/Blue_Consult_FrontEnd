@@ -1,2 +1,0 @@
-# Blue_Consult_FrontEnd
-hello
